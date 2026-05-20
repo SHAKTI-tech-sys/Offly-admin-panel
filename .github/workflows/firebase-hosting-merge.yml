@@ -16,4 +16,3 @@ jobs:
           channelId: live
           projectId: ai-studio-applet-webapp-5bbe9
           entryPoint: admin
-
